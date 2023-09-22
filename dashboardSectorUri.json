@@ -1,4 +1,5 @@
 [
  "https://data.stormquant.com/sq-bin/gluu.cgi?test",
- "https://127.0.0.1:8080/secure/callback"
+ "https://127.0.0.1:8080/secure/callback",
+ "https://localhost:8091/secure/callback"
 ]
