@@ -1,4 +1,4 @@
 [
- "http://127.0.0.1/secure/callback",     
+ "https://127.0.0.1/secure/callback",     
  "stormquant://callback",
 ]
