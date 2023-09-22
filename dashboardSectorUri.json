@@ -1,5 +1,4 @@
 [
- "https://com.stormquant.app/secure/callback",     
- "stormquant://com.stormquant.app/secure/callback",
- "appscheme://com.stormquant.app/secure/callback"
+ "http://127.0.0.1/secure/callback",     
+ "stormquant://callback",
 ]
